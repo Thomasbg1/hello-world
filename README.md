@@ -1,3 +1,0 @@
-Thomas
-Legay
-ENSC
